@@ -1,0 +1,60 @@
+{
+  "photos": [
+    {
+      "id" : "001",
+      "title" : "Sign Up Form",
+      "thumbnail" : "images/signUpForm.png",
+      "image" : "images/signUpForm.png",
+      "description" :
+        "Sign up for our newsletter! This is a website pop-up overlay sign up form. The concept was a website for a trendy clothing store."
+    },
+    {
+      "id" : "002",
+      "title" : "The Little Lemon",
+      "thumbnail" : "images/littleLemonReserve.png",
+      "image" : "images/littleLemonReserve.png",
+      "description" :
+        "Reserve a table at The Little Lemon! This is a series of screens demonstrating how a user would move through the processes of reserving a table using the Little Lemon restaurant app."
+    },
+    {
+      "id" : "003",
+      "title" : "Eye Design Eyeglasses",
+      "thumbnail" : "images/ede_home_hover.jpg",
+      "image" : "images/ede_home_hover.jpg",
+      "description" :
+        "This is a landing page for the Eye Design eyeglasses store. Eye Design is a high end glasses retailer located near the ocean in Florida."
+    },
+    {
+      "id" : "004",
+      "title" : "Midnight Munchies Icons",
+      "thumbnail" : "images/munchieIcons.png",
+      "image" : "images/munchieIcons.png",
+      "description" :
+        "Midnight Munchies! The concept for this design was an app dedicated to delivering late night snacks. The bright color palette and glowing edges is reminiscent of neon lights in a city."
+    },
+    {
+      "id" : "005",
+      "title" : "Sweet Lotus",
+      "thumbnail" : "images/sweetLotus.png",
+      "image" : "images/SweetLotus.png",
+      "description" :
+        "Pre-Order your book now! Sweet Lotus is a fictional cookbook tie-in for the fictional restaurant, The Lotus Cafe. This design is for a landing page for the website to order a copy of the book."
+    },
+    {
+      "id" : "006",
+      "title" : "The Lucky Shrub",
+      "thumbnail" : "images/LuckyShrubV1.png",
+      "image" : "images/LuckyShrubV1.png",
+      "description" :
+        "This was the first version of the header for the Lucky Shrub Landscaping Company website. The Lucky Shrub is a fictional landscaping company based in Phoenix, AZ."
+    },
+    {
+      "id" : "007",
+      "title" : "Travel the World",
+      "thumbnail" : "images/worldTravel.png",
+      "image" : "images/worldTravel.png",
+      "description" :
+        "View images from around the world with this design! This is a set of collapsing images depicting scenes from around the world. This could easily be adapted to fit into any image heavy website."
+    }
+  ]
+}
