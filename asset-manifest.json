@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/designShowcase/static/css/main.0df5d747.css",
+    "main.js": "/designShowcase/static/js/main.1d081f1a.js",
+    "static/js/453.737d5dc5.chunk.js": "/designShowcase/static/js/453.737d5dc5.chunk.js",
+    "static/media/church-on-sunday.svg": "/designShowcase/static/media/church-on-sunday.f6d75c7a5fdabdc389c7.svg",
+    "index.html": "/designShowcase/index.html",
+    "main.0df5d747.css.map": "/designShowcase/static/css/main.0df5d747.css.map",
+    "main.1d081f1a.js.map": "/designShowcase/static/js/main.1d081f1a.js.map",
+    "453.737d5dc5.chunk.js.map": "/designShowcase/static/js/453.737d5dc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0df5d747.css",
+    "static/js/main.1d081f1a.js"
+  ]
+}
