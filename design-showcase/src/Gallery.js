@@ -20,12 +20,7 @@ function Photo({ photo }) {
             <button className="galleryBtn" onClick={toggleOverlay}>
               X
             </button>
-            {/* <img
-              src={photo.thumbnail}
-              alt={photo.title}
-              className="overlayImg"
-            /> */}
-            <p>Pictures go here - to do later</p>
+            <img src={photo.image} alt={photo.title} className="overlayImg" />
             <h3>{photo.title}</h3>
             <p>{photo.description}</p>
           </div>
